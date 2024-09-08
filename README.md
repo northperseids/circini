@@ -1,4 +1,4 @@
-# circinibot
+# circini
 ![Image showing two embedded proxies in conversation](/image.png)<br><br>
 Small bot to allow a version of semi-proxying in Discord DMs.<br><br>
 I made this in my spare time because I was bored. It's a utility intended to be of a Pluralkit-esque nature that allows semi-proxying in DMs through the use of embeds. It takes up a chunk of visual space in the chat, but it's the best I could do with no webhooks available in DMs.<br><br>
