@@ -50,7 +50,7 @@ client.on('interactionCreate', async (interaction) => {
                 .setDescription(`Hello!\n
                 This is a bot that allows proxied messages to be sent in DMs through embeds and slash commands.\n
                 It has to be self-hosted, meaning YOU have to host it yourself, and assume the responsibility for doing so.\n
-                For more information, see the Github: https://github.com/northperseids/circinibot.\n
+                For more information, see the Github: https://github.com/northperseids/circini.\n
                 The current member limit is ${memberLimit}. **The ABSOLUTE MAX as the code is written is 41 members.** (This is a discord limitation. Click 'limitations' to learn more.)\n
                 Click the buttons below for more information.\n
                 *This won't be a continually-updated or supported project. I made it because I was bored. If you have any issues, you can contact me through Discord at @neartsua.*\n
