@@ -5,7 +5,7 @@ I made this in my spare time because I was bored. It's a utility intended to be 
 This will not be a regularly-updated project, but I've come back to it on occasion.
 
 # Usage
-The bot can only be configured for one system profile at a time. Management can be done entirely through Discord (ideally).<br>
+The bot can only be configured for one system profile at a time. Management can be done entirely through Discord (ideally).<br><br>
 Also, please note that the maximum members possible in a system (currently) is 41 (I know that may seem small for some folks, but Discord allows 50 slash commands per bot, and 9 of those are taken up by utility commands). I might try to figure out a way to use subcommands to allow more, but - well, haven't done that yet.
 ### Commands
 /resetsys - reset and set up a system<br>
