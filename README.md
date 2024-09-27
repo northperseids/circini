@@ -1,5 +1,5 @@
 # circini
-![Image showing two embedded proxied messages in conversation](/image.png)<br><br>
+![Image showing two embedded proxied messages in conversation](/screenshot.png)<br><br>
 Small bot to allow a version of pseudo-proxying in Discord DMs using embeds or custom emojis.<br><br>
 This will not be a regularly-updated project, but I've come back to it on occasion.
 
